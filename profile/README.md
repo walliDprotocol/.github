@@ -4,7 +4,7 @@ WalliD aims to provide the ultimate onboarding and digital trust solution by agg
 
 ## 👤❓ How can I use WalliD as user?
 
-WalliD wallet is a self-custodial wallet that enable users to authenticate on multiple blockchains, dApps or traditional WebApps and to manage digital IDs and blockchain assets. It's available as a browser extension, IOS and Android app.
+WalliD wallet is a self-custodial wallet that enables users to authenticate on multiple blockchains, dApps or traditional WebApps and to manage digital IDs and blockchain assets. It's available as a browser extension, IOS and Android app.
 
 ### 💻 Browser extension
 
