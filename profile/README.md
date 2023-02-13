@@ -1,6 +1,6 @@
 # WalliD
 
-WalliD aims to provide the ultimate onboarding and digital trust solution by aggregating authenticators and digital ID providers. Our aggregator architecture brings together centralized Certificate authorities and their Public Key Infrastructures (PKIs), DID and Zero-Knowledge protocols, as well as authentication providers. This allows us to offer a comprehensive toolkit with different suites of products that cater to the needs of WebApp, dApp developers and users.
+WalliD aims to provide the ultimate onboarding and digital trust solution by aggregating authenticators and digital ID providers. Our aggregator architecture brings together centralized Certificate authorities and their Public Key Infrastructures (PKIs), DID and Zero-Knowledge protocols, as well as authentication providers. This allows us to offer a comprehensive toolkit with different suites of products that cater to the needs of WebApp or dApp developers and users across the globe.
 
 ## 👤❓ How can I use WalliD as user?
 
