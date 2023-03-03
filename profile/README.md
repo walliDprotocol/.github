@@ -2,7 +2,7 @@
 
 WalliD aims to provide the ultimate onboarding and digital trust solution by aggregating authenticators and digital ID providers. Our aggregator architecture brings together centralized Certificate authorities and their Public Key Infrastructures (PKIs), DID and Zero-Knowledge protocols, as well as authentication providers. This allows us to offer a comprehensive toolkit with different suites of products that cater to the needs of WebApp or dApp developers and users across the globe.
 
-## 👤❓ How can I use WalliD as user?
+## 👤❓ How can I use WalliD as a user?
 
 WalliD wallet is a self-custodial wallet that enables users to authenticate on multiple blockchains, dApps or traditional WebApps and to manage digital IDs and blockchain assets. It's available as a browser extension, IOS and Android app.
 
@@ -16,7 +16,7 @@ WalliD wallet is a self-custodial wallet that enables users to authenticate on m
 - WalliD wallet Android code `coming soon`
 
 
-## 🧑‍💻❓ How can I use WalliD as a Developer?
+## 🧑‍💻❓ How can I use WalliD as a developer?
 
 WalliD product suite empower WebApp and dApp developers to abstract the complexity of connecting to different authentication and digital ID providers and to provide a seamless onboarding or user data verification within their own platforms. 
 
