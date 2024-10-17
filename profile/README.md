@@ -1,6 +1,6 @@
 # WalliD
 
-streamline and secure their identity management processes. Our platform enables businesses to easily manage **digital certificates**, implement **federated identity** solutions for seamless authentication, and integrate advanced **electronic signature** capabilities. Whether issuing trusted certificates, providing secure Single Sign-On (SSO), or enabling verified digital signatures, WalliD ensures that organizations can enhance security, reduce fraud, and simplify compliance—all with ease of use and efficiency at the core.
+WalliD is at the forefront of **Digital ID 2.0**, offering cutting-edge solutions that help organizations streamline and secure their identity management processes. Our platform enables businesses to easily manage **digital certificates**, implement **federated identity** solutions for seamless authentication, and integrate advanced **electronic signature** capabilities. Whether issuing trusted certificates, providing secure Single Sign-On (SSO), or enabling verified digital signatures, WalliD ensures that organizations can enhance security, reduce fraud, and simplify compliance—all with ease of use and efficiency at the core.
 
 ## 📜 Verifiable Certificates
 
