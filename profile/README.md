@@ -1,33 +1,25 @@
 # WalliD
 
-WalliD aims to provide the ultimate onboarding and digital trust solution by aggregating authenticators and digital ID providers. Our aggregator architecture brings together centralized Certificate authorities and their Public Key Infrastructures (PKIs), DID and Zero-Knowledge protocols, as well as authentication providers. This allows us to offer a comprehensive toolkit with different suites of products that cater to the needs of WebApp or dApp developers and users across the globe.
+streamline and secure their identity management processes. Our platform enables businesses to easily manage **digital certificates**, implement **federated identity** solutions for seamless authentication, and integrate advanced **electronic signature** capabilities. Whether issuing trusted certificates, providing secure Single Sign-On (SSO), or enabling verified digital signatures, WalliD ensures that organizations can enhance security, reduce fraud, and simplify compliance—all with ease of use and efficiency at the core.
 
-## 👤❓ How can I use WalliD as a user?
+## 📜 Verifiable Certificates
 
-WalliD wallet is a self-custodial wallet that enables users to authenticate on multiple blockchains, dApps or traditional WebApps and to manage digital IDs and blockchain assets. It's available as a browser extension, IOS and Android app.
+**CertiShop**, is our comprehensive solution for organizations to **design, issue, manage, and verify verifiable certificates**. Whether it’s diplomas, membership credentials, or certificates of origin, CertiShop makes it simple to handle verifiable documents that comply with EU standards like eIDAS 2. CertiShop ensures that your certificates are legally binding and verifiable by third parties.
 
-### 💻 Browser extension
+- [CertiShop Lib](https://github.com/walliDprotocol/EIDCMP-lib)
+- [CertiShop Api](https://github.com/walliDprotocol/EIDCMP-api)
 
-- WalliD wallet open source code [ `@wallid-wallet`](https://github.com/walliDprotocol/WalliD-Wallet)
+### 🆔 Digital ID
 
-### 📱 Mobile apps
+WalliD's **Federated ID solution** acts as an aggregator for various **authentication** and **verifiable data sources**. We offer Single Sign-On (SSO) capabilities, allowing users to authenticate via **social logins**, **web3 wallets**, and **email or password**. Additionally, our verification solution supports querying wallets and verifying the ownership of **digital IDs** and **blockchain assets**.
 
-- WalliD wallet IOS code `coming soon`
-- WalliD wallet Android code `coming soon`
+- [Core Config API](https://github.com/walliDprotocol/core-config)
+- [Verification Modal](https://github.com/walliDprotocol/verification-modal)
+- [Modal Launcher](https://github.com/walliDprotocol/modal-launcher)
+- [ID Wallet](https://github.com/walliDprotocol/WalliD-Wallet))
 
+### ✍️ Electronic Signatures
 
-## 🧑‍💻❓ How can I use WalliD as a developer?
+WalliD integrates with **DocuSign** to offer **eSign** solutions, making use of **Digital ID 2.0** capabilities. Through these integrations, WalliD enables **Qualified Electronic Signatures (QES)** using digital identities, web3 signatures, and even **NFT-based proofs of signature**. Our solutions extend DocuSign’s capabilities, adding ID 2.0-compliant electronic signatures for various types of documents.
 
-WalliD product suite empower WebApp and dApp developers to abstract the complexity of connecting to different authentication and digital ID providers and to provide a seamless onboarding or user data verification within their own platforms. 
-
-WalliD is suitable for teams with high and low levels of development expertise or customization needs. You can quickly config and setup an authentication or ID verification flow through our no-code Config Dashboard and Modals or have control over the UI and authentication flows with our simple SDKs. 
-
-### 📟 Config Dashboard
- 
- - No-code dashboard to easily config verification parameters `coming soon`
-
-### 🌐 Web and Mobile SDKs
-
-- Core Config NPM Library to setup verification parameters and provider connections [ `@core-config`](https://github.com/walliDprotocol/core-config)
-- Verification Modal frontend Library to manage user interaction with verification flows and providers [ `@verification-modal`](https://github.com/walliDprotocol/verification-modal)
-- Modal Launcher NPM Library to import config paramaters to be displayed in the Modal [ `@modal-launcher`](https://github.com/walliDprotocol/modal-launcher)
+- [Web3 Signatures on DocuSign](https://github.com/walliDprotocol/NFT-Proof-of-Signature)
