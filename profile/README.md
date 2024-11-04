@@ -6,7 +6,7 @@ WalliD is at the forefront of **Digital ID 2.0**, offering cutting-edge solution
 
 **CertiShop**, is our comprehensive solution for organizations to **design, issue, manage, and verify verifiable certificates**. Whether it’s diplomas, membership credentials, or certificates of origin, CertiShop makes it simple to handle verifiable documents that comply with EU standards like eIDAS 2. CertiShop ensures that your certificates are legally binding and verifiable by third parties.
 
-- [CertiShop Lib](https://github.com/walliDprotocol/EIDCMP-lib)
+- [CertiShop Lib](https://github.com/walliDprotocol/CertiShop_lib)
 - [CertiShop Api](https://github.com/walliDprotocol/EIDCMP-api)
 
 ### 🆔 Digital ID
