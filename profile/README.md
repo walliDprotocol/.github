@@ -16,7 +16,7 @@ WalliD's **Federated ID solution** acts as an aggregator for various **authentic
 - [Core Config API](https://github.com/walliDprotocol/core-config)
 - [Verification Modal](https://github.com/walliDprotocol/verification-modal)
 - [Modal Launcher](https://github.com/walliDprotocol/modal-launcher)
-- [ID Wallet](https://github.com/walliDprotocol/WalliD-Wallet))
+- [ID Wallet](https://github.com/walliDprotocol/WalliD-Wallet)
 
 ### ✍️ Electronic Signatures
 
